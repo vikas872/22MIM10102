@@ -1,0 +1,4 @@
+mkdir logging_middleware
+cd logging_middleware
+npm init -y
+npm install axios dotenv
